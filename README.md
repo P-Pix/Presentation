@@ -48,4 +48,8 @@
 |-|-|
 |Linux System with Ubuntu|[Linux](https://en.wikipedia.org/wiki/Linux)|
 |Git|[GitHub](https://github.com/)|
+|English||
 
+# Contact
+
+[![https://github.com/P-Pix](image/bxl-github.svg)](https://github.com/P-Pix)
