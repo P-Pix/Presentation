@@ -42,3 +42,10 @@
 |JavaScript|[jQuery](https://jquery.com/)|
 |CSS|[Sass](https://sass-lang.com/)|
 
+# Other
+
+|Name|Link|
+|-|-|
+|Linux System with Ubuntu|[Linux](https://en.wikipedia.org/wiki/Linux)|
+|Git|[GitHub](https://github.com/)|
+
