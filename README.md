@@ -3,7 +3,7 @@
 ![Photo de profile](./image/PP.png)
 
 ## Français
-Bonjour, je me présente, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[université de Caen Normandie](https://www.unicaen.fr/). J'ai une forte appétence pour le C++ et le Python mais je sais m'adapter à de nombreux langages informatique. Je privilégie le Python pour les parties mthématiques de l'informatique, et le C++ pour les parties de visualisation et d'interfaces afin d'accélérer l'exécution.
+Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[université de Caen Normandie](https://www.unicaen.fr/). J'ai une forte appétence pour le C++ et le Python mais je sais m'adapter à de nombreux langages informatiques. Je privilégie le Python pour les parties mathématiques de l'informatique, et le C++ pour les parties de visualisation et d'interfaces afin d'accélérer l'exécution.
 
 ### Experiences personnel
 
@@ -31,7 +31,7 @@ Bonjour, je me présente, je suis Guillaume LEMONNIER, étudiant en Master 2 d'i
 [![https://www.linkedin.com/in/lemonnier-guillaume/](image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
 
 ## English
-Hello, let me introduce myself, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, Artificial Intelligence, Data Science and Health at the [University of Caen Normandy](https://www.unicaen.fr/). I have a strong attraction to C++ and Python but I know how to adapt to many computer languages. I like to use Python for the mathematical parts of computer science, and C++ for the visualization and interface parts in order to speed up execution.
+Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, Artificial Intelligence, Data Science and Health at the [University of Caen Normandy](https://www.unicaen.fr/). I have a strong attraction to C++ and Python but I know how to adapt to many computer languages. I like to use Python for the mathematical parts of computer science, and C++ for the visualization and interface parts in order to speed up execution.
 
 ### Personnal experiences
 
