@@ -16,6 +16,7 @@ Bonjour, je me présente, je suis Guillaume LEMONNIER, étudiant en Master 2 d'i
 |C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns|Projet privé|
 |C++|Génération de contexte formel aléatoire|Projet privé|
 |Python|Detection de l'hypovigilence|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
+|Python|Définition de label en fonction de compte rendu médical|Projet privé|
 |PHP|MVCR projet de Licence 3|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
 |C++|Comparaison d'algorithmes de tri, projet de Licence 3|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
 |C++|Jeu de la vie de Conway|[GitHub](https://github.com/P-Pix/ConwayLife)|
@@ -43,6 +44,7 @@ Hello, let me introduce myself, I am Guillaume LEMONNIER, a Master 2 degree stud
 |C++, JavaScript|3D molecul modelization for pharmacophore detection, Norns|Private project|
 |C++|Random formal context generator|Private project|
 |Python|Sleeping detection|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
+|Python|Label denomination from medical analysis|Private project|
 |PHP|MVCR project from 3rd year license|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
 |C++|Sort algorithm comparaison, project from 3rd year license|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
 |C++|Conway's game of life|[GitHub](https://github.com/P-Pix/ConwayLife)|
