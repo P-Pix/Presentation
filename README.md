@@ -1,59 +1,39 @@
-# Hi I'm Guillaume LEMONNIER, I'm a french student at the University of Caen
+# Présentation 
 
-# Language
+![Photo de profile](./image/PP.png)
 
-|Language|Mastery|
-|-|-|
-|C++|4.5 / 5|
-|C|4.5 / 5|
-|Python|4 / 5|
-|Java|3.5 / 5|
-|JavaScript|3.5 / 5|
-|HTML|3.5 / 5|
-|CSS|3.5 / 5|
-|SQL|3.5 / 5|
-|PHP|3.5 / 5|
-|Markdown|3.5 / 5|
-|Makefile|3.5 / 5|
+## Français
+Bonjour, je me présente, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[université de Caen Normandie](https://www.unicaen.fr/). 
 
-# Personnal Experience
+### Experiences personnel
+
+|Language|Projet|Lien|
+|-|-|-|
+|C++|Moteur 2D|[GitHub](https://github.com/P-Pix/2DMotor)|
+|C++|Moteur 3D|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
+|C++|GUI pour Scan de manga|[GitHub](https://github.com/P-Pix/ScanGUI)|
+|C++|Application de dessin|[GitHub](https://github.com/P-Pix/DrawingApp)|
+|C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns|Projet privé|
+|C++|Génération de contexte formel aléatoire|Projet privé|
+|Python|Detection de l'hypovigilence|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
+|
+
+## English
+Hi I'm Guillaume LEMONNIER, I'm a french student at the University of Caen
+
+### Personnal Experience
 
 |Language|Project|Link|
 |-|-|-|
 |C++|2D Motor|[GitHub](https://github.com/P-Pix/2DMotor)|
 |C++|3D Motor|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
 
-# Libraries and Frameworks kwon
+### Libraries and Frameworks kwon
 
-|Language|Library/Link|
-|-|-|
-|C++|[SDL2](https://www.libsdl.org/)|
-|C++|[SFML](https://www.sfml-dev.org/)|
-|C++|[Standard C++](https://en.cppreference.com/)|
-|C|[Standard C](https://en.wikipedia.org/wiki/C_standard_library)|
-|Python|[Pygame](https://www.pygame.org/)|
-|Python|[Numpy](https://numpy.org/)|
-|Python|[Scipy](https://www.scipy.org/)|
-|Python|[MathPlotLib](https://matplotlib.org/)|
-|Java|[Swift](https://swift.org/)|
-|JavaScript|[NodeJS](https://nodejs.org/en/)|
-|JavaScript|[ReactJS](https://reactjs.org/)|
-|JavaScript|[VueJS](https://vuejs.org/)|
-|JavaScript|[jQuery](https://jquery.com/)|
-|CSS|[Sass](https://sass-lang.com/)|
-
-# Other
-
-|Name|Link|
-|-|-|
-|Linux System with Ubuntu|[Linux](https://en.wikipedia.org/wiki/Linux)|
-|Git|[GitHub](https://github.com/)|
-|English||
-
-# Contact
+### Contact
 
 [![https://github.com/P-Pix](image/bxl-github.svg)](https://github.com/P-Pix)
 
-# Project
-## Game's of life
+### Project
+#### Game's of life
 [Conway game's of life](https://github.com/P-Pix/ConwayLife)
