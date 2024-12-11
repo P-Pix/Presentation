@@ -3,12 +3,13 @@
 ![Photo de profile](../image/PP.png)
 
 [English][EN],
+[Español][ES],
 **Français**
 
 [EN]:README.en.md
-[FR]:README.fr.md
+[ES]:README.es.md
 
-Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[université de Caen Normandie](https://www.unicaen.fr/). J'ai une forte appétence pour le C++ et le Python mais je sais m'adapter à de nombreux langages informatiques. Je privilégie le Python pour les parties mathématiques de l'informatique, et le C++ pour les parties de visualisation et d'interfaces afin d'accélérer l'exécution.
+Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[Université de Caen Normandie](https://www.unicaen.fr/). J'ai une forte appétence pour le C++ et le Python mais je sais m'adapter à de nombreux langages informatiques. Je privilégie le Python pour les parties mathématiques de l'informatique, et le C++ pour les parties de visualisation et d'interfaces afin d'accélérer l'exécution.
 
 ## Experiences personnel
 

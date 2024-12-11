@@ -1,12 +1,13 @@
-# Présentation 
+# Presentation 
 
 ![Photo de profile](../image/PP.png)
 
-**English**
+**English**,
+[Español][ES],
 [Français][FR]
 
-[EN]:README.en.md
 [FR]:README.fr.md
+[ES]:README.es.md
 
 Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, Artificial Intelligence, Data Science and Health at the [University of Caen Normandy](https://www.unicaen.fr/). I have a strong attraction to C++ and Python but I know how to adapt to many computer languages. I like to use Python for the mathematical parts of computer science, and C++ for the visualization and interface parts in order to speed up execution.
 
@@ -35,7 +36,7 @@ Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, 
 [![https://github.com/P-Pix](../image/bxl-github.svg)](https://github.com/P-Pix)
 [![https://www.linkedin.com/in/lemonnier-guillaume/](../image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
 
-## Liens de Contact
+## Contact links
 
 [lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)
 
