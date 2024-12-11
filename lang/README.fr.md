@@ -21,7 +21,7 @@ Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parco
 |C++|Application de dessin|[GitHub](https://github.com/P-Pix/DrawingApp)|
 |C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns|Projet privé|
 |C++|Génération de contexte formel aléatoire|Projet privé|
-|Python|Detection de l'hypovigilence|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
+|Python|Detection de l'hypovigilance|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
 |Python|Définition de label en fonction de compte rendu médical|Projet privé|
 |PHP|MVCR projet de Licence 3|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
 |C++|Comparaison d'algorithmes de tri, projet de Licence 3|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
