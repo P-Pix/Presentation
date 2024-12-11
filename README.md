@@ -5,8 +5,8 @@
 [English][EN],
 [Français][FR]
 
-[EN]:README.en.md
-[FR]:README.fr.md
+[EN]:lang/README.en.md
+[FR]:lang/README.fr.md
 
 ## Liens de Contact
 

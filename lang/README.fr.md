@@ -1,6 +1,6 @@
 # Présentation 
 
-![Photo de profile](./image/PP.png)
+![Photo de profile](../image/PP.png)
 
 [English][EN],
 **Français**
@@ -31,9 +31,9 @@ Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parco
 
 ## Contact
 
-[![mailto:lemonnier.guillaume.pro@gmail.com](./image/bxl-mail.svg)](mailto:lemonnier.guillaume.pro@gmail.com)
-[![https://github.com/P-Pix](image/bxl-github.svg)](https://github.com/P-Pix)
-[![https://www.linkedin.com/in/lemonnier-guillaume/](image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
+[![mailto:lemonnier.guillaume.pro@gmail.com](../image/bxl-mail.svg)](mailto:lemonnier.guillaume.pro@gmail.com)
+[![https://github.com/P-Pix](../image/bxl-github.svg)](https://github.com/P-Pix)
+[![https://www.linkedin.com/in/lemonnier-guillaume/](../image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
 
 ## Liens de Contact
 
