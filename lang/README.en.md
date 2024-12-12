@@ -25,6 +25,7 @@ Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, 
 |Python|Label denomination from medical analysis|Private project|
 |PHP|MVCR project from 3rd year license|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
 |C++|Sort algorithm comparaison, project from 3rd year license|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
+|Java|Ray Tracing, project from 2nd year license|[GitHub](https://github.com/P-Pix/RayTracing)|
 |C++|Conway's game of life|[GitHub](https://github.com/P-Pix/ConwayLife)|
 |C++|Zelda 1's clone|[GitHub](https://github.com/P-Pix/clone_zelda)|
 |C++|Transforming picture into ASCII picture|[GitHub](https://github.com/P-Pix/ascii_image)|

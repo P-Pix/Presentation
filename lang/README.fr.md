@@ -25,6 +25,7 @@ Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parco
 |Python|Définition de label en fonction de compte rendu médical|Projet privé|
 |PHP|MVCR projet de Licence 3|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
 |C++|Comparaison d'algorithmes de tri, projet de Licence 3|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
+|Java|Ray Tracing, projet de Licence 2|[GitHub](https://github.com/P-Pix/RayTracing)|
 |C++|Jeu de la vie de Conway|[GitHub](https://github.com/P-Pix/ConwayLife)|
 |C++|Clone de Zelda 1|[GitHub](https://github.com/P-Pix/clone_zelda)|
 |C++|Transformation d'une image en image ASCII|[GitHub](https://github.com/P-Pix/ascii_image)|
