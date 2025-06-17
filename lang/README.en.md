@@ -30,6 +30,8 @@ Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, 
 |C++|Zelda 1's clone|[GitHub](https://github.com/P-Pix/clone_zelda)|
 |C++|Transforming picture into ASCII picture|[GitHub](https://github.com/P-Pix/ascii_image)|
 |Arduino-UNO|Temperture captor for self regulation, last year of high school S-SI|[GitHub](https://github.com/P-Pix/capteur_temperature)|
+|Python|Fix SPMF's cgSpan algorithm|[GitHub](https://github.com/P-Pix/cgSpan)|
+|Python|Defining graph dataset meta-descriptors|[GitHub](https://github.com/P-Pix/meta-descripteur-dataset-graphs)|
 
 ## Contact
 
