@@ -15,23 +15,23 @@ Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parco
 
 |Language|Projet|Lien|
 |-|-|-|
-|C++|Moteur 2D|[GitHub](https://github.com/P-Pix/2DMotor)|
-|C++|Moteur 3D|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
-|C++|GUI pour scan de manga|[GitHub](https://github.com/P-Pix/ScanGUI)|
-|C++|Application de dessin|[GitHub](https://github.com/P-Pix/DrawingApp)|
-|C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns|Projet privé|
-|C++|Génération de contexte formel aléatoire|Projet privé|
-|Python|Detection de l'hypovigilance|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
-|Python|Définition de label en fonction de compte rendu médical|Projet privé|
-|PHP|MVCR projet de Licence 3|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
-|C++|Comparaison d'algorithmes de tri, projet de Licence 3|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
-|Java|Ray Tracing, projet de Licence 2|[GitHub](https://github.com/P-Pix/RayTracing)|
-|C++|Jeu de la vie de Conway|[GitHub](https://github.com/P-Pix/ConwayLife)|
-|C++|Clone de Zelda 1|[GitHub](https://github.com/P-Pix/clone_zelda)|
-|C++|Transformation d'une image en image ASCII|[GitHub](https://github.com/P-Pix/ascii_image)|
-|Arduino-UNO|Capteur de temperature et régulation, Terminal S-SI|[GitHub](https://github.com/P-Pix/capteur_temperature)|
-|Python|Correction de l'algorithme cgSpan de SPMF|[GitHub](https://github.com/P-Pix/cgSpan)|
-|Python|Définition de méta-descripteurs de dataset de graphe|[GitHub](https://github.com/P-Pix/meta-descripteur-dataset-graphs)|
+|C++|Moteur 2D (En cours...)|[GitHub](https://github.com/P-Pix/2DMotor)|
+|C++|Moteur 3D (En cours...)|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
+|C++|GUI pour scan de manga (Version alpha)|[GitHub](https://github.com/P-Pix/ScanGUI)|
+|C++|Application de dessin (En cours...)|[GitHub](https://github.com/P-Pix/DrawingApp)|
+|C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns (Projet fini)|Projet privé|
+|C++|Génération de contexte formel aléatoire (Projet fini)|Projet privé|
+|Python|Detection de l'hypovigilance (Projet fini)|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
+|Python|Définition de label en fonction de compte rendu médical (Projet fini)|Projet privé|
+|PHP|MVCR projet de Licence 3 (Version alpha)|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
+|C++|Comparaison d'algorithmes de tri, projet de Licence 3 (Projet fini)|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
+|Java|Ray Tracing, projet de Licence 2 (Projet fini)|[GitHub](https://github.com/P-Pix/RayTracing)|
+|C++|Jeu de la vie de Conway (Projet fini)|[GitHub](https://github.com/P-Pix/ConwayLife)|
+|C++|Clone de Zelda 1 (En cours...)|[GitHub](https://github.com/P-Pix/clone_zelda)|
+|C++|Transformation d'une image en image ASCII (Projet fini)|[GitHub](https://github.com/P-Pix/ascii_image)|
+|Arduino-UNO|Capteur de temperature et régulation, Terminal S-SI (Projet fini)|[GitHub](https://github.com/P-Pix/capteur_temperature)|
+|Python|Correction de l'algorithme cgSpan de SPMF (Projet fini)|[GitHub](https://github.com/P-Pix/cgSpan)|
+|Python|Définition de méta-descripteurs de dataset de graphe (Projet fini)|[GitHub](https://github.com/P-Pix/meta-descripteur-dataset-graphs)|
 
 ## Contact
 
