@@ -20,7 +20,7 @@ Hello, I am Guillaume LEMONNIER, a Master 2 degree student in computer science, 
 |C++|Manga scan GUI (Alpha version)|[GitHub](https://github.com/P-Pix/ScanGUI)|
 |C++|Drawing app (Work in porgress...)|[GitHub](https://github.com/P-Pix/DrawingApp)|
 |C++, JavaScript|3D molecul modelization for pharmacophore detection, Norns (Finished project)|Private project|
-|C++|Random formal context generator (Finished project)|Private project|
+|C|Random formal context generator (Finished project)|Private project|
 |Python|Sleeping detection (Finished project)|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
 |Python|Label denomination from medical analysis (Finished project)|Private project|
 |PHP|MVCR project from 3rd year license (Alpha version)|[GitHub](https://github.com/P-Pix/PHP-MVCR)|

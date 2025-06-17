@@ -20,7 +20,7 @@ Hola, soy Guillaume LEMONNIER, estudiante de segundo año de máster en informá
 |C++|GUI escanear mangas|[GitHub](https://github.com/P-Pix/ScanGUI)|
 |C++|Aplicación de dibujo|[GitHub](https://github.com/P-Pix/DrawingApp)|
 |C++, JavaScript|Modelización de moléculas 3D para la detección de farmacóforos, Norns|Proyecto privado|
-|C++|Generador de contexto formal aleatorio|Proyecto privado|
+|C|Generador de contexto formal aleatorio|Proyecto privado|
 |Python|Detección de sueño|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
 |Python|Denominación de la etiqueta del análisis médico|Proyecto privado|
 |PHP|Proyecto MVCR a partir del 3er año de licencia|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
