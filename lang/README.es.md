@@ -11,6 +11,8 @@
 
 Hola, soy Guillaume LEMONNIER, estudiante de segundo año de máster en informática, inteligencia artificial, ciencia de datos y salud en la [Universidad de Caen Normandía](https://www.unicaen.fr/). Me atraen mucho C++ y Python, pero sé adaptarme a muchos lenguajes informáticos. Me gusta utilizar Python para las partes matemáticas de la informática y C++ para las partes de visualización e interfaz con el fin de acelerar la ejecución.
 
+[Web site](https://p-pix.github.io/)
+
 ## Experiencias personales
 
 |Lenguajes|Proyecto|Enlace|
