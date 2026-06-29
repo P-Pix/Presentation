@@ -1,50 +1,73 @@
-# Présentation
+<div align="center">
 
-![Photo de profile](../image/PP.png)
+<img src="../image/PP.png" alt="Portrait de Guillaume Lemonnier" width="155" />
 
-[English][EN],
-[Español][ES],
-**Français**
+# Guillaume LEMONNIER
 
-[EN]:README.en.md
-[ES]:README.es.md
+### Développeur full-stack orienté santé, data et logiciels métier
 
-Bonjour, je suis Guillaume LEMONNIER, étudiant en Master 2 d'informatique parcours Intelligence Artificielle, Sciences des Données et Santé à l'[Université de Caen Normandie](https://www.unicaen.fr/). J'ai une forte appétence pour le C++ et le Python mais je sais m'adapter à de nombreux langages informatiques. Je privilégie le Python pour les parties mathématiques de l'informatique, et le C++ pour les parties de visualisation et d'interfaces afin d'accélérer l'exécution.
+[English](./README.en.md) · **Français** · [Español](./README.es.md)
 
-[Site web](https://p-pix.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-p--pix.github.io-0A66C2?style=for-the-badge)](https://p-pix.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-P--Pix-181717?style=for-the-badge&logo=github)](https://github.com/P-Pix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillaume%20Lemonnier-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lemonnier-guillaume/)
 
-## Experiences personnel
+</div>
 
-|Language|Projet|Lien|
-|-|-|-|
-|C++|Moteur 2D (En cours...)|[GitHub](https://github.com/P-Pix/2DMotor)|
-|C++|Moteur 3D (En cours...)|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
-|C++|GUI pour scan de manga (Version alpha)|[GitHub](https://github.com/P-Pix/ScanGUI)|
-|C++|Application de dessin (En cours...)|[GitHub](https://github.com/P-Pix/DrawingApp)|
-|C++, JavaScript|Modelisation de molécule en 3D pour detection de Pharmacophore, Norns (Projet fini)|Projet privé|
-|C|Génération de contexte formel aléatoire (Projet fini)|Projet privé|
-|Python|Detection de l'hypovigilance (Projet fini)|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
-|Python|Définition de label en fonction de compte rendu médical (Projet fini)|Projet privé|
-|PHP|MVCR projet de Licence 3 (Version alpha)|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
-|C++|Comparaison d'algorithmes de tri, projet de Licence 3 (Projet fini)|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
-|Java|Ray Tracing, projet de Licence 2 (Projet fini)|[GitHub](https://github.com/P-Pix/RayTracing)|
-|C++|Jeu de la vie de Conway (Projet fini)|[GitHub](https://github.com/P-Pix/ConwayLife)|
-|C++|Clone de Zelda 1 (En cours...)|[GitHub](https://github.com/P-Pix/clone_zelda)|
-|C++|Transformation d'une image en image ASCII (Projet fini)|[GitHub](https://github.com/P-Pix/ascii_image)|
-|Arduino-UNO|Capteur de temperature et régulation, Terminal S-SI (Projet fini)|[GitHub](https://github.com/P-Pix/capteur_temperature)|
-|Python|Correction de l'algorithme cgSpan de SPMF (Projet fini)|[GitHub](https://github.com/P-Pix/cgSpan)|
-|Python|Définition de méta-descripteurs de dataset de graphe (Projet fini)|[GitHub](https://github.com/P-Pix/meta-descripteur-dataset-graphs)|
+---
+
+## À propos
+
+Je suis informaticien avec un profil hybride : **développement full-stack**, **data / IA**, **PostgreSQL** et **logiciel natif C++**.
+
+Mon objectif est de concevoir des outils concrets, maintenables et utiles dans des environnements contraints, notamment autour des applications métier, de la santé, de l’automatisation et de la valorisation des données.
+
+Mon projet professionnel le plus représentatif est **Cap RH+**, une application métier RH développée de bout en bout à l’ARS Normandie : besoin métier, frontend JavaScript, backend Node.js/Express, imports Excel/CSV, droits, exports XLSX, mails, tests, documentation et mise en production.
+
+---
+
+## Compétences principales
+
+| Domaine | Compétences |
+|---|---|
+| Applications métier | Analyse du besoin, workflows, interfaces administrateur, exports, documentation, support. |
+| Frontend | JavaScript/TypeScript, React, HTML/CSS, interfaces utilisateurs, tableaux métier, modales. |
+| Backend / API | Node.js, Express, FastAPI, routes REST, sessions, middleware, services, logs. |
+| Données | PostgreSQL, Excel, CSV, JSON, scripts d’import, normalisation, exports XLSX. |
+| Logiciel natif | C++, GTK/GTKmm, bases Qt, CMake, filesystem, sockets, applications desktop. |
+| IA / data | NLP, extraction d’information, graphes, explicabilité, pipelines Python. |
+| Qualité | Refactorisation, README, Doxygen/JSDoc, tests, architecture en couches. |
+
+---
+
+## Projets à regarder en priorité
+
+| Projet | Stack | Intérêt technique |
+|---|---|---|
+| [**Cap RH+**](../CAP_RH_PLUS.md) | JavaScript, Node.js, Express, Excel/CSV, API, tests | Projet professionnel end-to-end à l’ARS Normandie : application métier RH, import de données, droits, exports XLSX, mails, tests, documentation et mise en production. |
+| [**ScanGUI**](https://github.com/P-Pix/ScanGUI) | C++, GTKmm, HTTP local, PostgreSQL, CMake | Reprise d’un ancien projet desktop et professionnalisation : architecture en couches, API locale, serveur C++ sans framework web, PostgreSQL, documentation Doxygen. |
+| [**Core-CHU**](https://github.com/P-Pix/Core-CHU) | Python, FastAPI, TypeScript, PostgreSQL, Docker | Prototype de socle hospitalier modulaire pensé autour de la sécurité, du RBAC, des modules métier et des environnements sensibles. |
+| [**ChatLegalGPT**](https://github.com/P-Pix/ChatLegalGPT) | Python, IA générative, interface web | Assistant IA expérimental pour interroger le droit français. |
+| [**Copilote IA médical**](https://github.com/P-Pix/Copilote-IA-de-compr-hension-et-r-daction-de-comptes-rendus-m-dicaux) | Python, React, NLP | Application full-stack pour analyser des comptes rendus médicaux et assister la rédaction de synthèses. |
+| [**Modern Paint Local**](https://github.com/P-Pix/Modern_paint_local) | HTML, CSS, JavaScript | Application frontend-only de manipulation d’images locales, pensée pour fonctionner sans serveur. |
+| [**meta-descripteur-dataset-graphs**](https://github.com/P-Pix/meta-descripteur-dataset-graphs) | Python, graphes, data science | Projet autour des graphes, de la caractérisation de datasets et de l’explicabilité. |
+
+---
+
+## Ce que mes projets montrent
+
+- Capacité à développer des applications complètes, du besoin utilisateur jusqu’à la mise en production.
+- Capacité à manipuler des données métier issues de fichiers imparfaits ou historiques.
+- Capacité à structurer une application avec frontend, backend, services, tests et documentation.
+- Goût pour les architectures claires et sobres.
+- Intérêt pour les projets sensibles : santé, confidentialité, outils internes, qualité de données.
+- Culture hybride entre web, données, IA et logiciel natif C++.
+
+---
 
 ## Contact
 
-[![mailto:lemonnier.guillaume.pro@gmail.com](../image/bxl-mail.svg)](mailto:lemonnier.guillaume.pro@gmail.com)
-[![https://github.com/P-Pix](../image/bxl-github.svg)](https://github.com/P-Pix)
-[![https://www.linkedin.com/in/lemonnier-guillaume/](../image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
-
-## Liens de Contact
-
-[lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)
-
-[https://github.com/P-Pix](https://github.com/P-Pix)
-
-[https://www.linkedin.com/in/lemonnier-guillaume/](https://www.linkedin.com/in/lemonnier-guillaume/)
+- Portfolio : [p-pix.github.io](https://p-pix.github.io/)
+- GitHub : [github.com/P-Pix](https://github.com/P-Pix)
+- LinkedIn : [linkedin.com/in/lemonnier-guillaume](https://www.linkedin.com/in/lemonnier-guillaume/)
+- Email : [lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)

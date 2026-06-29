@@ -1,50 +1,56 @@
-# Presentación
+<div align="center">
 
-![Photo de profile](../image/PP.png)
+<img src="../image/PP.png" alt="Retrato de Guillaume Lemonnier" width="155" />
 
-[English][EN],
-**Español**,
-[Français][FR]
+# Guillaume LEMONNIER
 
-[EN]:README.en.md
-[FR]:README.fr.md
+### Desarrollador full-stack orientado a salud, datos y aplicaciones profesionales
 
-Hola, soy Guillaume LEMONNIER, estudiante de segundo año de máster en informática, inteligencia artificial, ciencia de datos y salud en la [Universidad de Caen Normandía](https://www.unicaen.fr/). Me atraen mucho C++ y Python, pero sé adaptarme a muchos lenguajes informáticos. Me gusta utilizar Python para las partes matemáticas de la informática y C++ para las partes de visualización e interfaz con el fin de acelerar la ejecución.
+[English](./README.en.md) · [Français](./README.fr.md) · **Español**
 
-[Web site](https://p-pix.github.io/)
+</div>
 
-## Experiencias personales
+---
 
-|Lenguajes|Proyecto|Enlace|
-|-|-|-|
-|C++|Motor 2D|[GitHub](https://github.com/P-Pix/2DMotor)|
-|C++|Motor 3D|[GitHub](https://github.com/P-Pix/3DMotorRayTracing)|
-|C++|GUI escanear mangas|[GitHub](https://github.com/P-Pix/ScanGUI)|
-|C++|Aplicación de dibujo|[GitHub](https://github.com/P-Pix/DrawingApp)|
-|C++, JavaScript|Modelización de moléculas 3D para la detección de farmacóforos, Norns|Proyecto privado|
-|C|Generador de contexto formal aleatorio|Proyecto privado|
-|Python|Detección de sueño|[RedMine Unicaen](https://redmine-etu.unicaen.fr/projects/projet_comete)|
-|Python|Denominación de la etiqueta del análisis médico|Proyecto privado|
-|PHP|Proyecto MVCR a partir del 3er año de licencia|[GitHub](https://github.com/P-Pix/PHP-MVCR)|
-|C++|Comparación de algoritmos de ordenación, proyecto de licencia de 3er año|[GitHub](https://github.com/P-Pix/Sorting-Algoithm-Listing)|
-|Java|Ray Tracing, proyecto de licencia de 2nd año|[GitHub](https://github.com/P-Pix/RayTracing)|
-|C++|El juego de la vida de Conway|[GitHub](https://github.com/P-Pix/ConwayLife)|
-|C++|El clon de Zelda 1|[GitHub](https://github.com/P-Pix/clone_zelda)|
-|C++|Transformar una imagen en una imagen ASCII|[GitHub](https://github.com/P-Pix/ascii_image)|
-|Arduino-UNO|Captador de temperatura para autorregulación, último año de bachillerato S-SI|[GitHub](https://github.com/P-Pix/capteur_temperature)|
-|Python|Corregir el algoritmo cgSpan de SPMF|[GitHub](https://github.com/P-Pix/cgSpan)|
-|Python|Definición de metadescriptores de conjuntos de datos de gráficos|[GitHub](https://github.com/P-Pix/meta-descripteur-dataset-graphs)|
+## Sobre mí
+
+Soy informático con un perfil híbrido: **desarrollo full-stack**, **datos / IA**, **PostgreSQL** y **software nativo en C++**.
+
+Me interesan especialmente las aplicaciones útiles en entornos exigentes: herramientas internas, salud, automatización, bases de datos, interfaces claras y proyectos que conectan necesidades reales con soluciones mantenibles.
+
+Mi proyecto profesional más representativo es **Cap RH+**, una aplicación RH desarrollada de extremo a extremo en ARS Normandie. El proyecto incluye análisis de necesidades, frontend JavaScript, backend Node.js/Express, importación Excel/CSV, permisos, exportaciones XLSX, correos automatizados, pruebas, documentación y soporte de producción.
+
+---
+
+## Competencias principales
+
+| Área | Competencias |
+|---|---|
+| Aplicaciones profesionales | Análisis de necesidades, workflows, interfaces de administración, exportaciones, documentación, soporte. |
+| Frontend | JavaScript/TypeScript, React, HTML/CSS, tablas profesionales, modales, interfaces de usuario. |
+| Backend / API | Node.js, Express, FastAPI, rutas REST, sesiones, middleware, servicios, logs. |
+| Datos | PostgreSQL, Excel, CSV, JSON, scripts de importación, normalización, exportaciones XLSX. |
+| Software nativo | C++, GTK/GTKmm, bases Qt, CMake, filesystem, sockets, aplicaciones desktop. |
+| IA / data | NLP, extracción de información, grafos, explicabilidad, pipelines Python. |
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Stack | Valor técnico |
+|---|---|---|
+| [**Cap RH+**](../CAP_RH_PLUS.md) | JavaScript, Node.js, Express, Excel/CSV, API, tests | Proyecto empresarial realizado end-to-end en ARS Normandie: aplicación RH, importación de datos, permisos, exportaciones XLSX, correos, pruebas y documentación. |
+| [**ScanGUI**](https://github.com/P-Pix/ScanGUI) | C++, GTKmm, HTTP local, PostgreSQL, CMake | Modernización de un antiguo proyecto desktop con arquitectura en capas, servidor HTTP local en C++ y documentación Doxygen. |
+| [**Core-CHU**](https://github.com/P-Pix/Core-CHU) | Python, FastAPI, TypeScript, PostgreSQL, Docker | Prototipo de plataforma modular para entorno sanitario, con seguridad, RBAC y módulos profesionales. |
+| [**ChatLegalGPT**](https://github.com/P-Pix/ChatLegalGPT) | Python, IA generativa, interfaz web | Asistente experimental de IA para preguntas sobre derecho francés. |
+| [**Copilote IA médico**](https://github.com/P-Pix/Copilote-IA-de-compr-hension-et-r-daction-de-comptes-rendus-m-dicaux) | Python, React, NLP | Aplicación full-stack para analizar informes médicos y ayudar a redactar síntesis. |
+| [**Modern Paint Local**](https://github.com/P-Pix/Modern_paint_local) | HTML, CSS, JavaScript | Herramienta frontend-only para manipulación local de imágenes. |
+
+---
 
 ## Contacto
 
-[![mailto:lemonnier.guillaume.pro@gmail.com](../image/bxl-mail.svg)](mailto:lemonnier.guillaume.pro@gmail.com)
-[![https://github.com/P-Pix](../image/bxl-github.svg)](https://github.com/P-Pix)
-[![https://www.linkedin.com/in/lemonnier-guillaume/](../image/bxl-linkedin.svg)](https://www.linkedin.com/in/lemonnier-guillaume/)
-
-## Enlaces de contacto
-
-[lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)
-
-[https://github.com/P-Pix](https://github.com/P-Pix)
-
-[https://www.linkedin.com/in/lemonnier-guillaume/](https://www.linkedin.com/in/lemonnier-guillaume/)
+- Portfolio: [p-pix.github.io](https://p-pix.github.io/)
+- GitHub: [github.com/P-Pix](https://github.com/P-Pix)
+- LinkedIn: [linkedin.com/in/lemonnier-guillaume](https://www.linkedin.com/in/lemonnier-guillaume/)
+- Email: [lemonnier.guillaume.pro@gmail.com](mailto:lemonnier.guillaume.pro@gmail.com)
